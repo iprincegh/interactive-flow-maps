@@ -1,4 +1,4 @@
-Sys.setenv(MAPBOX_TOKEN = "pk.eyJ1IjoicHJpbmNlb2IiLCJhIjoiY205eDVvY3JqMHhkNjJrc2FpaTY5cHp0YyJ9.dr1pXDjpG2p_yZ4R5OzYGA")
+Sys.setenv(MAPBOX_TOKEN = "")
 library(spanishoddata)
 library(flowmapblue)
 library(tidyverse)
